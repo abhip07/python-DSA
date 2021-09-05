@@ -1,2 +1,3 @@
 # python-DSA
-Data Structures and Algorithms in Python
+
+- This repository contains notebooks of complete data structures and algorithms in Python.
